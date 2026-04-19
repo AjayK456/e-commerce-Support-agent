@@ -4,7 +4,7 @@ from crewai import Agent, Task, Crew, Process
 
 # 1. CONFIGURATION
 # IMPORTANT: Replace 'YOUR_ACTUAL_GROQ_KEY' with your real key from console.groq.com
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "Your_groq _API_key" 
 
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
